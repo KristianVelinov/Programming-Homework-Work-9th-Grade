@@ -1,0 +1,6 @@
+gcc -c transformation.c -o transformation.o (compiling to object file)
+
+gcc main.c transformation.o -o program.exe (connecting the two files into program.exe)
+
+program.exe (executing executable file)
+
