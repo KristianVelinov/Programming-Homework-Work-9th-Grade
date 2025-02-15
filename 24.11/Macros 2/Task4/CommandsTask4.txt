@@ -1,1 +1,0 @@
-gcc Task4.c -o Task4.exe -lm (конкретната команда е -lm)
